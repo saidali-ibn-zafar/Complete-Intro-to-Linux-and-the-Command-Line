@@ -26,6 +26,8 @@ ls
 ls arg
 ```
 
+The command `ls -lash` is used to list detailed information about files and directories in a directory.
+
 ## pwd
 
 The `pwd` command in Linux stands for `"print working directory."` It is used to display the current working directory. 
